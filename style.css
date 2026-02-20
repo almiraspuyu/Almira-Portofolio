@@ -517,7 +517,8 @@ a:hover {
 .faves-title {
   text-align: left;
   max-width: 1000px;
-  margin: 0 0 40px 0;
+  margin-bottom: 40px;
+  padding-left: 100px;
 }
 .carousel-wrapper {
   position: relative;
